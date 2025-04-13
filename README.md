@@ -54,8 +54,8 @@
 ### 🔥 Highlights
 
 - 🧠 [NVIDIA Certified – *Fundamentals of Deep Learning*](https://learn.nvidia.com/certificates?id=g_YlArD1RhWSssqE5P2YUQ)
-- 🧠 [Certified – *Introduction to Transformer-Based Natural Language Processing*](https://learn.nvidia.com/certificates?id=fCBI8CozTISs7N8nOvxFgg)
-- 🧠 [Certified – *Generative AI with Diffusion Models*](https://learn.nvidia.com/certificates?id=pFQsJDADTGq_n8riJvRg0g)
+- 🧠 [NVIDIA Certified – *Introduction to Transformer-Based Natural Language Processing*](https://learn.nvidia.com/certificates?id=fCBI8CozTISs7N8nOvxFgg)
+- 🧠 [NVIDIA Certified – *Generative AI with Diffusion Models*](https://learn.nvidia.com/certificates?id=pFQsJDADTGq_n8riJvRg0g)
 - 🧪 Built a clinical data pipeline with **MIMIC-III**, PCA & ML in **Power BI**
 - 🧸 Game dev finalist @ *Bal des Projets* 🎮 with a custom **Arduino Gamepad**
 - 🧑‍⚕️ Developing AI tools for **online safety & health prediction**
